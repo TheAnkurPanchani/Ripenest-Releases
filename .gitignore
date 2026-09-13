@@ -1,0 +1,16 @@
+﻿# Binary installers and release packages (uploaded as GitHub Release Assets, not in git tree)
+*.exe
+*.apk
+*.aab
+*.zip
+*.msix
+*.dmg
+*.AppImage
+
+releases/*/*.exe
+releases/*/*.apk
+releases/*/*.aab
+releases/*/*.zip
+releases/*/*.msix
+releases/*/*.dmg
+releases/*/*.AppImage

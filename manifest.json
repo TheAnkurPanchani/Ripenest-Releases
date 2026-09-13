@@ -1,0 +1,22 @@
+{
+  "latestVersion": "1.0.0",
+  "buildNumber": 1,
+  "minSupportedVersion": "1.0.0",
+  "releaseDate": "2026-09-12T18:15:00.000Z",
+  "isMandatory": false,
+  "releaseNotes": "Ripenest v1.0.0 Production Release. Private, 100% offline-first personal finance platform for Indian investors with automated CAS PDF importing, pre-redemption tax & exit load simulation, offline Ed25519 subscription licensing, and peer-to-peer device sync.",
+  "platforms": {
+    "windows": {
+      "url": "https://github.com/TheAnkurPanchani/Ripenest-Releases/releases/download/v1.0.0/Ripenest-v1.0.0-Setup-x64.exe",
+      "sha256": "b6426168d524d7f05e1b84c68083539a2f9beb05dffbbcf23e64a9ca9bb11d3",
+      "fileSizeBytes": 17069617,
+      "installType": "installer"
+    },
+    "android": {
+      "url": "https://github.com/TheAnkurPanchani/Ripenest-Releases/releases/download/v1.0.0/Ripenest-v1.0.0-release.apk",
+      "sha256": "8b3cac762fcbd7c8586a74c667e534ff9fb053558db56a25be421a17cb9d4326",
+      "fileSizeBytes": 107069321,
+      "installType": "apk"
+    }
+  }
+}
