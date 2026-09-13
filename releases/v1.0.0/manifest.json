@@ -14,8 +14,8 @@
     },
     "android": {
       "url": "https://github.com/TheAnkurPanchani/Ripenest-Releases/releases/download/v1.0.0/Ripenest-v1.0.0-release.apk",
-      "sha256": "8b3cac762fcbd7c8586a74c667e534ff9fb053558db56a25be421a17cb9d4326",
-      "fileSizeBytes": 107069321,
+      "sha256": "5dd197a8fc1591bd07fa9960c388a9f8d9a290090a87c2b6fe88f70f923bef93",
+      "fileSizeBytes": 39844543,
       "installType": "apk"
     }
   }

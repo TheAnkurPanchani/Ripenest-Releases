@@ -1,2 +1,5 @@
-﻿b94d639db3ffce37e47dbafe20c1df6829d630232e238b9e615b54306937cdde  Ripenest-v1.0.0-release.aab
-8b3cac762fcbd7c8586a74c667e534ff9fb053558db56a25be421a17cb9d4326  Ripenest-v1.0.0-release.apk
+﻿5dd197a8fc1591bd07fa9960c388a9f8d9a290090a87c2b6fe88f70f923bef93  Ripenest-v1.0.0-arm64-v8a-release.apk
+c14f54ee2195d273a5614cf347266b1ce3160b18da860e14f040f208621e8152  Ripenest-v1.0.0-armeabi-v7a-release.apk
+b94d639db3ffce37e47dbafe20c1df6829d630232e238b9e615b54306937cdde  Ripenest-v1.0.0-release.aab
+5dd197a8fc1591bd07fa9960c388a9f8d9a290090a87c2b6fe88f70f923bef93  Ripenest-v1.0.0-release.apk
+a4e9dc35c9f251b1c089ea6ec865ecd6551b4ed3d5d5a5238012fb320c697eda  Ripenest-v1.0.0-x86_64-release.apk
