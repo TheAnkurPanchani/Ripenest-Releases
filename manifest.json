@@ -2,7 +2,7 @@
     "latestVersion":  "1.1.0",
     "buildNumber":  2,
     "minSupportedVersion":  "1.0.0",
-    "releaseDate":  "2026-09-19T16:28:34.036Z",
+    "releaseDate":  "2026-09-19T16:45:19.760Z",
     "isMandatory":  false,
     "releaseNotes":  "Ripenest v1.1.0 Production Release. Private, 100% offline-first personal finance platform for Indian investors with automated CAS PDF importing, pre-redemption tax \u0026 exit load simulation, offline Ed25519 subscription licensing, and peer-to-peer device sync.",
     "platforms":  {
