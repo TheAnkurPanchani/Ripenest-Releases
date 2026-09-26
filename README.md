@@ -7,16 +7,16 @@ Official releases and downloadable binaries for **Ripenest** - Private, local-fi
 
 ---
 
-## Latest Release: v1.2.0
+## Latest Release: v1.2.1
 
 | Platform / Artifact | File Name | Size | SHA-256 Checksum | Download |
 | :--- | :--- | :--- | :--- | :--- |
-| **Ripenest-v1.2.0-arm64-v8a-release.apk** | `Ripenest-v1.2.0-arm64-v8a-release.apk` | 38.82 MB | `98d3c2457cac67328be28b5e74ec4e59cc47c0793df5d3ea363d54be13b91a0b` | [Download](https://github.com/TheAnkurPanchani/Ripenest-Releases/releases/download/v1.2.0/Ripenest-v1.2.0-arm64-v8a-release.apk) |
-| **Ripenest-v1.2.0-armeabi-v7a-release.apk** | `Ripenest-v1.2.0-armeabi-v7a-release.apk` | 33.15 MB | `d8ce814d81f04c67d65419e5f3546fcfcd5c5b7e0f89b86699a7fb61fe139ecf` | [Download](https://github.com/TheAnkurPanchani/Ripenest-Releases/releases/download/v1.2.0/Ripenest-v1.2.0-armeabi-v7a-release.apk) |
-| **Ripenest-v1.2.0-release.apk** | `Ripenest-v1.2.0-release.apk` | 38.82 MB | `98d3c2457cac67328be28b5e74ec4e59cc47c0793df5d3ea363d54be13b91a0b` | [Download](https://github.com/TheAnkurPanchani/Ripenest-Releases/releases/download/v1.2.0/Ripenest-v1.2.0-release.apk) |
-| **Ripenest-v1.2.0-Setup-x64.exe** | `Ripenest-v1.2.0-Setup-x64.exe` | 16.55 MB | `8663826374614a780ae1cd0656ddd100b29b22be98970f958390f1431d5c3041` | [Download](https://github.com/TheAnkurPanchani/Ripenest-Releases/releases/download/v1.2.0/Ripenest-v1.2.0-Setup-x64.exe) |
-| **Ripenest-v1.2.0-windows-x64-portable.zip** | `Ripenest-v1.2.0-windows-x64-portable.zip` | 19.92 MB | `90ea9874c1266373d4edae427f0d87e10352e313053185baf31d4053f09bd565` | [Download](https://github.com/TheAnkurPanchani/Ripenest-Releases/releases/download/v1.2.0/Ripenest-v1.2.0-windows-x64-portable.zip) |
-| **Ripenest-v1.2.0-x86_64-release.apk** | `Ripenest-v1.2.0-x86_64-release.apk` | 41.49 MB | `8b5d5c2d3360345f7185d9fbb904e98a9336bb48ff81c6e66c7cae926fc06a56` | [Download](https://github.com/TheAnkurPanchani/Ripenest-Releases/releases/download/v1.2.0/Ripenest-v1.2.0-x86_64-release.apk) |
+| **Ripenest-v1.2.1-arm64-v8a-release.apk** | `Ripenest-v1.2.1-arm64-v8a-release.apk` | 39.48 MB | `88f350fc6bdee5f0efb0daf87a25fb5c39441d6279ed41d2a19429a624d60c5e` | [Download](https://github.com/TheAnkurPanchani/Ripenest-Releases/releases/download/v1.2.1/Ripenest-v1.2.1-arm64-v8a-release.apk) |
+| **Ripenest-v1.2.1-armeabi-v7a-release.apk** | `Ripenest-v1.2.1-armeabi-v7a-release.apk` | 33.85 MB | `5e5a56d9e7bc4ceab9533ae896a6dfeafd9b80baf0a28a67e148a4cfff0cf219` | [Download](https://github.com/TheAnkurPanchani/Ripenest-Releases/releases/download/v1.2.1/Ripenest-v1.2.1-armeabi-v7a-release.apk) |
+| **Ripenest-v1.2.1-release.apk** | `Ripenest-v1.2.1-release.apk` | 39.48 MB | `88f350fc6bdee5f0efb0daf87a25fb5c39441d6279ed41d2a19429a624d60c5e` | [Download](https://github.com/TheAnkurPanchani/Ripenest-Releases/releases/download/v1.2.1/Ripenest-v1.2.1-release.apk) |
+| **Ripenest-v1.2.1-Setup-x64.exe** | `Ripenest-v1.2.1-Setup-x64.exe` | 16.92 MB | `d90dee9333d8ec9dc22a602c9bb15b59b05eb3f527fe7eaed9edbb4f6e2f4349` | [Download](https://github.com/TheAnkurPanchani/Ripenest-Releases/releases/download/v1.2.1/Ripenest-v1.2.1-Setup-x64.exe) |
+| **Ripenest-v1.2.1-windows-x64-portable.zip** | `Ripenest-v1.2.1-windows-x64-portable.zip` | 20.32 MB | `a9b93525f13a81a31c5e006b9018a0d947f6802c4f91a6251068016ec66d80c4` | [Download](https://github.com/TheAnkurPanchani/Ripenest-Releases/releases/download/v1.2.1/Ripenest-v1.2.1-windows-x64-portable.zip) |
+| **Ripenest-v1.2.1-x86_64-release.apk** | `Ripenest-v1.2.1-x86_64-release.apk` | 42.21 MB | `299f71af7b6a96846d5b88fb56b6c384b9ed83955d48df657ee5ac45ff5402b1` | [Download](https://github.com/TheAnkurPanchani/Ripenest-Releases/releases/download/v1.2.1/Ripenest-v1.2.1-x86_64-release.apk) |
 
 ### Verification Instructions
 
