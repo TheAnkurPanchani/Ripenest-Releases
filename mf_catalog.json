@@ -1,8 +1,8 @@
 {
-  "catalogVersion": 20260920,
-  "updatedAt": "2026-09-20T17:04:16.622205Z",
-  "schemeCount": 37896,
+  "catalogVersion": 2026100301,
+  "updatedAt": "2026-10-03T18:43:10.837265Z",
+  "schemeCount": 37936,
   "downloadUrl": "https://github.com/TheAnkurPanchani/Ripenest-Releases/releases/download/mf-catalog/mf_universe.json.gz",
-  "sha256": "e488c70ac7f16ff21e71dc92ac96c8e8f8320e87411707b76b348db57024777f",
-  "fileSizeBytes": 427387
+  "sha256": "3591d62be037917f345317ebdab258548315c9f0a387c1f2457739488e56863a",
+  "fileSizeBytes": 503567
 }
