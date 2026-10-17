@@ -1,20 +1,20 @@
 {
-    "latestVersion":  "1.4.0",
+    "latestVersion":  "1.4.1",
     "buildNumber":  1,
     "minSupportedVersion":  "1.0.0",
-    "releaseDate":  "2026-10-15T06:59:18.389Z",
+    "releaseDate":  "2026-10-17T09:07:35.781Z",
     "isMandatory":  false,
-    "releaseNotes":  "Ripenest v1.4.0 Production Release. Private, 100% offline-first personal finance platform for Indian investors with automated CAS PDF importing, pre-redemption tax \u0026 exit load simulation, offline Ed25519 subscription licensing, and peer-to-peer device sync.",
+    "releaseNotes":  "Ripenest v1.4.1 Production Release. Private, 100% offline-first personal finance platform for Indian investors with automated CAS PDF importing, pre-redemption tax \u0026 exit load simulation, offline Ed25519 subscription licensing, and peer-to-peer device sync.",
     "platforms":  {
                       "windows":  {
-                                      "url":  "https://github.com/TheAnkurPanchani/Ripenest-Releases/releases/download/v1.4.0/Ripenest-v1.4.0-Setup-x64.exe",
-                                      "sha256":  "4299d8351cbba9207a60bd999143b607d66ddd5fd23de0ff481026ee015650a5",
-                                      "fileSizeBytes":  17825930,
+                                      "url":  "https://github.com/TheAnkurPanchani/Ripenest-Releases/releases/download/v1.4.1/Ripenest-v1.4.1-Setup-x64.exe",
+                                      "sha256":  "a044ec9f4b64a11f3619054a5da36414f2a81f5fc3cce739cc9a810b428ae101",
+                                      "fileSizeBytes":  17839365,
                                       "installType":  "installer"
                                   },
                       "android":  {
-                                      "url":  "https://github.com/TheAnkurPanchani/Ripenest-Releases/releases/download/v1.4.0/Ripenest-v1.4.0-arm64-v8a-release.apk",
-                                      "sha256":  "189bab32ae0ef55382a90cec8f4b390727ba9abf7f2a35ee5ab6eec828ea4c15",
+                                      "url":  "https://github.com/TheAnkurPanchani/Ripenest-Releases/releases/download/v1.4.1/Ripenest-v1.4.1-arm64-v8a-release.apk",
+                                      "sha256":  "ff7db77a650341d8ace98357824fce44bb81529624c55051cf00cd493349cebe",
                                       "fileSizeBytes":  41657844,
                                       "installType":  "apk"
                                   }
